@@ -1,0 +1,46 @@
+.example {
+    font-size: 30px;
+    color: aquamarine;
+}
+
+.examName {
+    font-size: 40px;
+    color: black;
+}
+
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    background-color: #fff;
+    color: #000;
+}
+
+table {
+    margin: auto;
+    border: lpx solid #699;
+}
+
+caption {
+    margin: auto;
+    padding: 0.2em;
+    font-size: 1.2em;
+    font-weight: boldj;
+}
+
+th {
+    font-weight: normal;
+    font-style: italic;
+    text-align: left;
+    border: 1px dotted #699;
+    background-color: #9cc;
+    color: #000;
+}
+
+th,
+td {
+    width: 10em;
+    padding: .5em;
+}
+
+.odd {
+    background-color: gray;
+}
